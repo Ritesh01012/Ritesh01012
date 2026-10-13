@@ -68,7 +68,7 @@ A defensive cybersecurity project designed to monitor suspicious file-system and
 
 **Technologies:** Python, Watchdog, psutil, SQLite, REST API
 
-🔗 [View RDRS Repository](https://github.com/Ritesh01012)
+🔗 [View RDRS Repository](https://github.com/Ritesh01012/ransomware-detection-response-system)
 
 ### 2. SOC Home Lab — Detection & Investigation
 
