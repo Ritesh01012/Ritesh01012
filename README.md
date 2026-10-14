@@ -2,7 +2,7 @@
 
 ### Aspiring SOC Analyst | Cybersecurity Enthusiast | Blue Team
 
-<a href="www.linkedin.com/in/ritesh-kumar11"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://l1nk.dev/84nmifa"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://github.com/Ritesh01012"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" /></a>
 
 ## 👨‍💻 About Me
